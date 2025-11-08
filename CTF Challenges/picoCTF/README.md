@@ -1,0 +1,1 @@
+This repository is a collection of picoCTF challenge write-ups and solutions created by our team. We work together to document our learning process, share insights, and explore different cybersecurity concepts.
