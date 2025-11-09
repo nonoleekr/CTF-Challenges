@@ -69,4 +69,3 @@ SKR{Ste4l1ng_4Dm1n_C0Ok135sss_330017}
 - Implement Content Security Policy (CSP) headers.
 - Use HttpOnly and Secure flags on cookies to protect them from JavaScript access.
 - Regular security reviews and testing for XSS vulnerabilities.
-```
